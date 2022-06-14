@@ -1,0 +1,62 @@
+<Customers>
+  <Customer xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/DataGenerator">
+    <Age>86</Age>
+    <CustomerId>101</CustomerId>
+    <Email>R_Heimbach@gmail.net</Email>
+    <Name>Robert Heimbach</Name>
+    <Orders>
+      <Order>
+        <CustomerId>101</CustomerId>
+        <Lines>
+          <OrderLine>
+            <OrderLineId>299</OrderLineId>
+            <Price>12</Price>
+            <ProductId>1785</ProductId>
+            <Qty>1</Qty>
+            <Total>12</Total>
+          </OrderLine>
+        </Lines>
+        <OrderId>148</OrderId>
+        <Total>12</Total>
+      </Order>
+      <Order>
+        <CustomerId>101</CustomerId>
+        <Lines>
+          <OrderLine>
+            <OrderLineId>300</OrderLineId>
+            <Price>51</Price>
+            <ProductId>8107</ProductId>
+            <Qty>2</Qty>
+            <Total>102</Total>
+          </OrderLine>
+        </Lines>
+        <OrderId>149</OrderId>
+        <Total>102</Total>
+      </Order>
+    </Orders>
+  </Customer>
+ <Customer xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/DataGenerator">
+  <Age>45</Age>
+  <CustomerId>103</CustomerId>
+  <Email>R_Roberts@yahoo.net</Email>
+  <Name>Robert Roberts</Name>
+  <Orders>
+    <Order>
+      <CustomerId>103</CustomerId>
+      <Lines>
+        <OrderLine>
+          <OrderLineId>306</OrderLineId>
+          <Price>92</Price>
+          <ProductId>5270</ProductId>
+          <Qty>2</Qty>
+          <Total>184</Total>
+        </OrderLine>
+      </Lines>
+      <OrderId>152</OrderId>
+      <Total>184</Total>
+    </Order>
+  </Orders>
+</Customer>
+
+</Customers>
+
